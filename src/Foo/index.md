@@ -10,9 +10,8 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'dumi-template';
 
-export default () => <Foo title="First Demo" />;
+export default () => <div>123</div>;
 ```
 
 More skills for writing demo: https://d.umijs.org/guide/demo-principle
